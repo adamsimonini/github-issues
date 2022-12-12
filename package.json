@@ -1,0 +1,20 @@
+{
+	"name": "github-issues",
+	"version": "1.0.0",
+	"description": "checking out github issues",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/adamsimonini/github-issues.git"
+	},
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/adamsimonini/github-issues/issues"
+	},
+	"homepage": "https://github.com/adamsimonini/github-issues#readme"
+}
